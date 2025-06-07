@@ -101,7 +101,7 @@ EsiCoin exists to serve as the financial backbone of the ESI ecosystem. It aims 
 ## Contact & Info
 
 - **Name:** James Dominic Liao
-- **Email:** jamesliao09@yaho.com 
+- **Email:** jamesliao09@yahoo.com 
 - **Website:**
 - **GitHub:** 
 - **White Paper Version:** 1.0
