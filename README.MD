@@ -47,21 +47,6 @@ Tokens exist **only within the ESI ecosystem** and are governed by their respect
 
 ---
 
-## 📂 Repository Structure
-
-📁 esi-org/
-├── README.md
-├── EsiCoin-EIC.md
-├── EsiPeso-EIP.md
-├── EsiUSD-EID.md
-├── EsiCrypto-EIO.md
-├── EsiBTC-EIB.md
-├── EsiETH-EIE.md
-├── EsiBTC-ETH-EIBE.md
-├── ESI-Coin-Token-ESICT.md
-└── ESI-01T-Standard.md
----
-
 ## 🛠️ Coming Soon
 
 - Smart Contract Templates (Solidity, Python)
