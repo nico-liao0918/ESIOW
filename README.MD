@@ -19,6 +19,7 @@ Each document below follows the **Minimal White Paper v0.1 format**, focusing on
 | ₿ + Ξ EsiBTC-ETH | EIBE   | Sub-StableCoin  | [Read White Paper](./EsiBTC-ETH-EIBE.md) |
 | ⛽ ESI Coin Token | ESICT  | Fee Token       | [Read White Paper](./ESI-Coin-Token-ESICT.md) |
 | 🧱 ESI-01T Standard | —     | Token Template  | [Read White Paper](./ESI-01T-Standard.md) |
+| 🧱 ESI ORG | —     | —  | [Read White Paper](./ESI-ORG.md) |
 
 ---
 
@@ -48,7 +49,7 @@ Tokens exist **only within the ESI ecosystem** and are governed by their respect
 
 ## 📂 Repository Structure
 
-📁 esi-org-whitepapers/
+📁 esi-org/
 ├── README.md
 ├── EsiCoin-EIC.md
 ├── EsiPeso-EIP.md
