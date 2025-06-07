@@ -74,9 +74,8 @@ Tokens exist **only within the ESI ecosystem** and are governed by their respect
 
 ## 👤 Maintainer
 
-Developed and maintained by **James Dominic Liao**, founder of ESI ORG.  
-Website: *(Coming Soon)*  
-Email: *(Optional)*
+Developed and maintained by **James Dominic Liao**, founder of ESI ORG.
+**Email**: jamesliao09@yaho.com
 
 ---
 
