@@ -267,7 +267,7 @@ Together, we can create a new digital frontier — one that prioritizes simplici
 
 - **Name:** James Dominic Liao
 - **Email:** jamesliao09@yaho.com 
-- **Website:**
+- **Website:** 
 - **GitHub:** 
 - **White Paper Version:** 1.0
 
